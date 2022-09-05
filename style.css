@@ -1004,6 +1004,9 @@ ul,li{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 }
+.fa-solid,fa-sharp{
+	color: black;
+}
 .welcome-section .image-content .item:hover{
 	position: relative;
 	background: #24c4f4;
@@ -1014,7 +1017,7 @@ ul,li{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 }
-.welcome-section .image-content .item:hover span:before{
+.welcome-section .image-content .item,.item .icon-box:hover span:before{
 	color: #ffffff;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
