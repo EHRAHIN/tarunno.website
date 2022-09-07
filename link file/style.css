@@ -64,7 +64,7 @@
 
 @media (min-width:1200px) {
   .container {
-    padding: 0px;
+    padding:0px;
   }
 }
 * {
@@ -104,7 +104,7 @@ body {
 	background-color: white;
 }
 .main-logo2 img{
-	width: 70px;
+	width: 80px;
 	background-color: none;
 }
 
@@ -902,8 +902,8 @@ ul,li{
 	max-height: 55px;
 	transform: rotate(-250deg);
 }
-.couses-section .image-box .donate-piechart .piechart-block .piechart {
-}
+/* .couses-section .image-box .donate-piechart .piechart-block .piechart {
+} */
 .couses-section .image-box .donate-piechart .piechart-block .piechart span {
 	color: #fff;
 	font-size: 13px;
