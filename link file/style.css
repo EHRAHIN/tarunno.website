@@ -265,6 +265,7 @@ ul,li{
 	padding:11px 25px;
 	line-height:20px;
 	text-transform:uppercase;
+	text-decoration: none;
 	background: #ffffff;
 	color:#f4c424;
 	font-size:14px;
@@ -923,6 +924,16 @@ ul,li{
 	content: "%";
 	font-size: 13px;
 	font-weight: 600;
+}
+.image-content a{
+	text-decoration: none;
+}
+.image-content h5{
+	color: #24a8f4;
+	opacity: 0.85;
+}
+.image-content h5:hover{
+	opacity: 1.0;
 }
 .couses-section .image-holder .image-content{
 	position: relative;
